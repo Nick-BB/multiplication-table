@@ -10,5 +10,5 @@ The followig technologies was used to build this:
 * CSS
 * Javascript
 
-## Images
+## Image
 ![image](https://github.com/user-attachments/assets/2dc31cea-bf85-4b15-855b-29d3ab4c52b0)
